@@ -2,15 +2,15 @@
 
 # Tharun Varshan S
 
-### AI-Powered Software Engineer
+### AI-Powered Software Engineer | Full-Stack Developer | Backend Systems Builder
 
-Building intelligent software, scalable backend systems, and AI-driven products from idea to production.
+Building intelligent products from idea to production.
 
 <p>
   <a href="https://github.com/Tharun-Varshan-S">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/tharun-varshan-s-ab1246333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/tharun-varshan-s-ab1246333">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -19,145 +19,126 @@ Building intelligent software, scalable backend systems, and AI-driven products 
 
 ---
 
-## About Me
+## 🚀 Current Focus
 
-I am passionate about building software that combines modern engineering practices with artificial intelligence.
-
-My primary focus is developing full-stack applications, scalable backend systems, and AI-powered products that solve real-world problems.
-
-I enjoy working across the entire product lifecycle—from architecture and development to deployment and continuous improvement.
-
----
-
-## Current Focus
-
-- AI Application Development
-- Full-Stack Engineering
-- Backend Systems & APIs
-- AI Integration & Automation
-- Cloud Deployment
-- System Design
+```text
+AI Applications
+     │
+     ├── Full-Stack Development
+     ├── Backend Architecture
+     ├── AI Integration
+     ├── Cloud Deployment
+     └── System Design
+```
 
 ---
 
-## What I Build
+## 🛠️ Tech Stack
 
-### AI Products
-
-Applications powered by machine learning, large language models, automation workflows, and intelligent decision-making systems.
-
-### Full-Stack Applications
-
-Modern web applications built using React, Node.js, FastAPI, databases, and cloud-native technologies.
-
-### Backend Platforms
-
-Scalable APIs, authentication systems, microservices, data pipelines, observability tooling, and production-ready architectures.
-
----
-
-## Tech Stack
+<div align="center">
 
 ### Languages
 
-```text
-Python • JavaScript • C++ • C • SQL
-```
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,mysql" />
 
 ### Frontend
 
-```text
-React • HTML • CSS • JavaScript
-```
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
 ### Backend
 
-```text
-Node.js • Express.js • FastAPI • REST APIs
-```
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 ### Databases
 
-```text
-MongoDB • PostgreSQL • Supabase • SQLite
-```
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
 
-### AI & Machine Learning
+### AI / ML
 
-```text
-TensorFlow • Scikit-Learn • Pandas • NumPy
-```
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
 ### DevOps & Cloud
 
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,git" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tharun-Varshan-S&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-Varshan-S&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-Varshan-S&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description |
+|----------|------------|
+| HELPDESK.AI | AI-powered support platform with intelligent assistance and ticket management |
+| LogLens | Observability and monitoring platform for logs, debugging, and system visibility |
+| Smart Photo Memory Organizer | AI-based memory organization and facial recognition platform |
+| AI Text Auto-Correction | Intelligent text correction system with production-ready APIs |
+
+---
+
+## 🎯 Engineering Interests
+
 ```text
-Docker • GitHub Actions • Linux • AWS
+AI Systems
+Backend Engineering
+Full-Stack Development
+MLOps
+Observability
+Distributed Systems
+Cloud Infrastructure
+Developer Tools
 ```
 
 ---
 
-## Featured Projects
-
-### HELPDESK.AI
-
-AI-powered support platform with authentication, ticket management, intelligent assistance, and production-ready architecture.
-
-### LogLens
-
-Observability and monitoring platform designed to centralize logs, simplify debugging, and improve operational visibility.
-
-### Smart Photo Memory Organizer
-
-AI-driven photo management system featuring memory organization, face recognition, and secure storage.
-
-### AI Text Auto-Correction System
-
-High-performance intelligent text correction platform built with modern AI workflows and backend services.
-
----
-
-## Engineering Principles
-
-- Build for real users
-- Keep systems simple
-- Design for scale
-- Automate repetitive work
-- Measure before optimizing
-- Ship, learn, and iterate
-
----
-
-## Currently Exploring
+## 🔭 Currently Exploring
 
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
-- MLOps
-- Observability Engineering
-- Distributed Systems
-- Cloud-Native Architectures
+- Production AI Systems
+- Monitoring & Observability
+- Cloud-Native Architecture
 
 ---
 
-## Open To
-
-- Software Engineering Opportunities
-- AI Engineering Roles
-- Full-Stack Development
-- Open Source Collaboration
-- Hackathons & Technical Communities
-
----
-
-## GitHub Philosophy
+## ⚡ Engineering Philosophy
 
 ```text
-Build → Test → Deploy → Monitor → Improve
+Build
+  ↓
+Test
+  ↓
+Deploy
+  ↓
+Monitor
+  ↓
+Improve
 ```
 
 ---
 
 <div align="center">
 
-### Building software that combines engineering, AI, and practical problem solving.
+### Building software that combines Engineering + AI + Real-World Impact
 
 </div>
