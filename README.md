@@ -1,73 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Builder+%7C+ML+Practitioner;Backend+Systems+%7C+AI+Integration;LeetCode+500%2B+%7C+Rating+1678" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:tharunvarshan.s2024aids@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-tharunvarshan.s2024aids%40sece.ac.in-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/tharunvarshan">
-    <img src="https://img.shields.io/badge/LinkedIn-Tharun_Varshan-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tharunvarshan">
-    <img src="https://img.shields.io/badge/GitHub-tharunvarshan-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharunvarshan&color=7C3AED&style=flat-square&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/tharunvarshan?style=flat-square&color=6D28D9&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/badge/Location-Tamil_Nadu,_India-5B21B6?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:5b21b6&height=140&section=header&text=THARUN%20VARSHAN%20S&fontColor=ede9fe&fontSize=38&fontAlignY=55&animation=fadeIn&desc=AI%20Systems%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20Machine%20Learning&descAlignY=78&descSize=13&descColor=a78bfa" width="100%"/>
 </p>
 
 <br/>
 
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-</p>
+<!--  LIVE STATUS PANEL  -->
 
-<h1 align="center">THARUN VARSHAN S</h1>
+```yaml
+◈ ENGINEER STATUS ──────────────────────────────────────────────
 
-<p align="center">
-  <strong><code>AI SYSTEMS &nbsp;•&nbsp; BACKEND ENGINEERING &nbsp;•&nbsp; MACHINE LEARNING</code></strong>
-</p>
+  identity   :  Tharun Varshan S
+  track      :  B.Tech AI & Data Science  ·  SECE  ·  2024–2028
+  cgpa       :  8.35 / 10
 
-<p align="center">
-  Building scalable backend systems,<br/>
-  production-grade AI integrations,<br/>
-  and data-driven applications.
-</p>
+  role       :  Full-Stack Engineer  ·  ML Systems Developer
+  focus      :  AI Integration  ·  Backend Systems  ·  REST APIs
+  experience :  MERN Stack Intern  @BetterTomorrow  ·  Dec 2025
 
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-</p>
+  building   :  Production AI Systems  ·  Scalable Backend Platforms
+  learning   :  Distributed Systems  ·  Cloud Architecture  ·  RAG
+  open to    :  Internships  ·  Research  ·  Open Source
+
+  location   :  Tamil Nadu, India
+  status     :  ● ACTIVELY BUILDING
+
+────────────────────────────────────────────────────────────────
+```
 
 <br/>
 
 ---
 
-## `⚙` ENGINEERING PROFILE
+<!--  KNOWLEDGE ARCHITECTURE  -->
+
+<h3 align="center">◆ &nbsp; KNOWLEDGE ARCHITECTURE</h3>
+
+<br/>
+
+```
+  FOUNDATIONS                    BACKEND                        AI / DATA
+  ───────────────                ───────────────                ───────────────
+  ├── C / C++                    ├── Node.js                    ├── Scikit-learn
+  ├── Python                     ├── Express.js                 ├── Pandas / NumPy
+  ├── Java                       ├── REST APIs                  ├── Matplotlib
+  ├── JavaScript                 ├── JWT Auth                   ├── Regression Models
+  ├── Data Structures            ├── MERN Stack                 ├── K-Means / R.Forest
+  └── Algorithms                 └── Modular Architecture       └── LLM API Integration
+
+  DATABASES                      FRONTEND                       ENVIRONMENT
+  ───────────────                ───────────────                ───────────────
+  ├── MongoDB                    ├── React.js                   ├── Git / GitHub
+  ├── MySQL                      ├── TypeScript                 ├── VS Code
+  └── PostgreSQL                 ├── Tailwind CSS               ├── Postman
+                                 ├── HTML / CSS                 ├── Jupyter / Colab
+                                 └── Vite                       └── Google Cloud
+```
+
+<br/>
+
+---
+
+<!--  ENGINEERING RADAR  -->
+
+<h3 align="center">▰ &nbsp; ENGINEERING RADAR</h3>
+
+<br/>
+
+```
+  Backend Engineering      ████████████████░░░░  ACTIVE      80%
+  Full-Stack (MERN)        ███████████████░░░░░  ACTIVE      75%
+  AI Systems Integration   ██████████████░░░░░░  ACTIVE      70%
+  Machine Learning         █████████████░░░░░░░  ACTIVE      65%
+  Problem Solving / DSA    ████████████████░░░░  ACTIVE      80%
+  Databases & Design       ████████████░░░░░░░░  ACTIVE      60%
+  Cloud / DevOps           ████████░░░░░░░░░░░░  LEARNING    40%
+  Distributed Systems      █████░░░░░░░░░░░░░░░  LEARNING    25%
+  RAG / Agentic AI         ████░░░░░░░░░░░░░░░░  EXPLORING   20%
+```
+
+<br/>
+
+---
+
+<!--  PROOF OF WORK  -->
+
+<h3 align="center">◉ &nbsp; PROOF OF WORK</h3>
 
 <br/>
 
 <div align="center">
 
-| Field | Details |
-|:---|:---|
-| 🎓 **Degree** | B.Tech — Artificial Intelligence & Data Science |
-| 🏛 **Institution** | Sri Eshwar College of Engineering `(2024–2028)` |
-| 📊 **CGPA** | 8.35 / 10 |
-| 💼 **Role** | Full-Stack Engineer · ML Systems Developer |
-| 🔭 **Specialization** | AI Integration · Backend Systems · Data Pipelines |
-| 📌 **Currently Learning** | Distributed Systems · Cloud Architecture · Agentic AI |
-| 🤝 **Open To** | Internships · Research Collaborations · Open Source |
-| 🎯 **Mission** | Engineer systems that solve real problems at scale |
+|  Metric  |  Signal  |  Where  |
+|:---:|:---:|:---:|
+| **500+** Problems Solved | Max Rating **1678** · Best Rank **#2313** | LeetCode |
+| **750+** Challenges | Programming Discipline | SkillRack |
+| **130+** Problems | Contest Regular | CodeChef |
+| **Hackathon Finalist** | SELFE Hackathon | National Level |
+| **Winner** | CoderAct Coding Contest | Sri Sakthi COE |
+| **Best Team Spirit** | ICPC Regional | Sri Eshwar COE |
+| **MERN Intern** | Full-Stack · APIs · Auth · Deployment | Better Tomorrow |
 
 </div>
 
@@ -75,140 +106,49 @@
 
 ---
 
-## `⬡` EXPERTISE MAP
+<!--  CURRENT FOCUS  -->
 
-<br/>
-
-<p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Backend & Web</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,typescript&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Databases</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>AI / ML & Data</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Tools & Environment</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&theme=dark" />
-</p>
-
-<br/>
-
----
-
-## `↓` KNOWLEDGE GRAPH
-
-<br/>
-
-```
-  Programming Foundations         C · C++ · Python · Java · JavaScript
-           ↓
-  Data Structures & Algorithms    Problem Solving · Competitive Programming
-           ↓
-  Backend Engineering             REST APIs · Node.js · Express.js · MERN Stack
-           ↓
-  Database Systems                MongoDB · MySQL · PostgreSQL
-           ↓
-  Machine Learning                Regression · Clustering · Random Forest · Data Pipelines
-           ↓
-  AI Systems Integration          Gemini AI · LLM APIs · Automated Evaluation Systems
-           ↓
-  Production Systems              Authentication · Scalable Architecture · Deployment
-           ↓
-  [ Next ] Distributed Systems · Cloud Architecture · Agentic AI · RAG Systems
-```
-
-<br/>
-
----
-
-## `▰` ENGINEERING CAPABILITIES
-
-<br/>
-
-```
-  Backend Engineering      ████████████████░░░░   80%
-  AI Systems Integration   ██████████████░░░░░░   70%
-  Machine Learning         █████████████░░░░░░░   65%
-  Full-Stack Development   ███████████████░░░░░   75%
-  Databases & Design       ████████████░░░░░░░░   60%
-  Problem Solving (DSA)    ████████████████░░░░   80%
-  DevOps / Cloud           ███████░░░░░░░░░░░░░   35%
-  Distributed Systems      █████░░░░░░░░░░░░░░░   25%  ← actively building
-```
-
-<br/>
-
----
-
-## `◈` CURRENT FOCUS DASHBOARD
+<h3 align="center">◈ &nbsp; CURRENT FOCUS</h3>
 
 <br/>
 
 ```yaml
-current_focus:
-
-  learning:
-    - Distributed Systems Architecture
-    - Cloud Infrastructure (AWS)
-    - Agentic AI & RAG Pipelines
+current_sprint:
 
   building:
-    - Production AI-Powered Platforms
-    - Scalable Backend Systems
-    - ML Automation Pipelines
+    - AI-Powered Interview Platform   # React · Node · Gemini API · JWT
+    - ML Error Mitigation System      # Scikit-learn · Pandas · Automated Pipelines
+
+  learning:
+    - Distributed Systems & CAP Theorem
+    - Cloud Architecture (AWS)
+    - Vector Databases & RAG Pipelines
 
   exploring:
-    - LLM-Integrated Applications
-    - Vector Databases
+    - Agentic AI Workflows
+    - LLM Fine-tuning Concepts
     - System Design Patterns
-
-  open_to:
-    - Engineering Internships
-    - Open Source Contributions
-    - Research Collaborations
-    - Hackathons
 ```
 
 <br/>
 
 ---
 
-## `◆` ACHIEVEMENTS
+<!--  CERTIFICATIONS  -->
+
+<h3 align="center">◎ &nbsp; CERTIFICATIONS</h3>
 
 <br/>
 
 <div align="center">
 
-| Achievement | Event | Institution |
-|:---|:---|:---|
-| 🥇 **Best Team Spirit Award** | ICPC Regional Round | Sri Eshwar College of Engineering |
-| 🏆 **Winner** | CoderAct Coding Contest | Sri Sakthi College of Engineering |
-| 🎯 **Finalist** | SELFE Hackathon | National Level |
+| Provider | Certification |
+|:---:|:---|
+| **NPTEL** | Data Science using Python |
+| **IIT Bombay** | C Programming — Spoken Tutorial |
+| **IIT Bombay** | C++ Programming — Spoken Tutorial |
+| **Udemy** | Data Structures & Algorithms Masterclass |
+| **Udemy** | Python using Generative AI |
 
 </div>
 
@@ -216,52 +156,33 @@ current_focus:
 
 ---
 
-## `◉` CERTIFICATIONS
+<!--  CODING PROFILES  -->
 
-<br/>
-
-<p align="center"><b>NPTEL &nbsp;|&nbsp; IIT Bombay</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Science_using_Python-NPTEL-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C_Programming-IIT_Bombay_Spoken_Tutorial-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B_Programming-IIT_Bombay_Spoken_Tutorial-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center"><b>Udemy</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA_Masterclass-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_using_Generative_AI-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
-</p>
-
-<br/>
-
----
-
-## `◎` CODING PROFILES
+<h3 align="center">⌬ &nbsp; CODING PROFILES</h3>
 
 <br/>
 
 <p align="center">
   <a href="https://leetcode.com/tharunvarshan">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B_Problems_%7C_Rating_1678-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20%7C%20Rating%201678%20%7C%20Rank%202313-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d0d"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://www.codechef.com/users/tharunvarshan">
-    <img src="https://img.shields.io/badge/CodeChef-130%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.skillrack.com/profile/tharunvarshan">
+    <img src="https://img.shields.io/badge/SkillRack-750%2B%20Challenges-4c1d95?style=for-the-badge&logoColor=white&labelColor=0d0d0d"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/tharunvarshan">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.codechef.com/users/tharunvarshan">
+    <img src="https://img.shields.io/badge/CodeChef-130%2B%20Problems-5b21b6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d"/>
   </a>
 </p>
 <p align="center">
   <a href="https://www.hackerrank.com/tharunvarshan">
-    <img src="https://img.shields.io/badge/HackerRank-Verified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Verified-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0d0d0d"/>
   </a>
-  <a href="https://www.skillrack.com/profile/tharunvarshan">
-    <img src="https://img.shields.io/badge/SkillRack-750%2B_Challenges-6D28D9?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/tharunvarshan">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-7c3aed?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d0d0d"/>
   </a>
 </p>
 
@@ -269,64 +190,37 @@ current_focus:
 
 ---
 
-## `◈` DEVELOPMENT METRICS
+<!--  GITHUB ANALYTICS  -->
 
-<br/>
-
-<div align="center">
-
-| Metric | Count |
-|:---|:---:|
-| 🧩 LeetCode Problems Solved | **500+** |
-| 🏆 Best LeetCode Contest Rank | **#2313** |
-| 🔥 LeetCode Max Rating | **1678** |
-| 🎯 SkillRack Challenges | **750+** |
-| 📘 CodeChef Problems | **130+** |
-
-</div>
-
-<br/>
-
----
-
-## `◱` GITHUB ANALYTICS
+<h3 align="center">◱ &nbsp; GITHUB ANALYTICS</h3>
 
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharunvarshan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=D1D5DB&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharunvarshan&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Tharun-Varshan-S&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-Varshan-S&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6d28d9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunvarshan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=D1D5DB&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-Varshan-S&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&langs_count=8"/>
 </p>
 
 <br/>
 
 ---
 
-## `◌` CONTRIBUTION GRAPH
-
-<br/>
+<!--  CONTRIBUTION GRAPH  -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunvarshan&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=6D28D9&area=true&hide_border=true&area_color=6D28D9" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-Varshan-S&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=5b21b6&area=true&area_color=4c1d95&hide_border=true" width="96%"/>
 </p>
 
-<br/>
-
----
-
-## `~` CONTRIBUTION SNAKE
-
-<br/>
+<!--  SNAKE  -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharunvarshan/tharunvarshan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharunvarshan/tharunvarshan/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tharunvarshan/tharunvarshan/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun-Varshan-S/Tharun-Varshan-S/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="contribution-snake" src="https://raw.githubusercontent.com/Tharun-Varshan-S/Tharun-Varshan-S/output/github-contribution-grid-snake-dark.svg" width="96%"/>
   </picture>
 </p>
 
@@ -334,32 +228,36 @@ current_focus:
 
 ---
 
-## `◍` CONNECT
-
-<br/>
+<!--  CONNECT  -->
 
 <p align="center">
   <a href="mailto:tharunvarshan.s2024aids@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-Send_a_Message-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-0d0d0d?style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/in/tharunvarshan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="mailto:tharunvarshan.s2024aids@sece.ac.in">
+    <img src="https://img.shields.io/badge/EMAIL-tharunvarshan.s2024aids%40sece.ac.in-5b21b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/>
   </a>
-  <a href="https://github.com/tharunvarshan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tharun-varshan-s-ab1246333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tharun-Varshan-S">
+    <img src="https://img.shields.io/badge/GITHUB-Follow-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
   </a>
 </p>
 
 <br/>
 
----
-
 <p align="center">
-  <sub><i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
+  <sub><code>— Systems built, not described. —</code></sub>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:4c1d95,100:1e1b4b&height=100&section=footer" width="100%"/>
 </p>
