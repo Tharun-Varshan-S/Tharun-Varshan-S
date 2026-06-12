@@ -12,10 +12,10 @@
   <a href="mailto:tharunvarshan.s2024aids@sece.ac.in">
     <img src="https://img.shields.io/badge/Email-1e1b4b?style=flat-square&logo=gmail&logoColor=a78bfa"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/tharunvarshan">
+  <a href="https://www.linkedin.com/in/tharun-varshan-s-ab1246333">
     <img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=flat-square&logo=linkedin&logoColor=a78bfa"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/tharunvarshan">
+  <a href="https://leetcode.com/u/Tharun-Varshan-S/">
     <img src="https://img.shields.io/badge/LeetCode-1e1b4b?style=flat-square&logo=leetcode&logoColor=a78bfa"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Tharun-Varshan-S&color=4c1d95&style=flat-square&label=profile+views"/>
@@ -120,7 +120,7 @@ Role-based platform connecting donors, hospitals, and admins. Features compatibi
 </td>
 <td width="50%" valign="top">
 
-### 📊 Focus
+### 📡 Next Focus
 Building production-grade AI systems and scalable backend platforms that solve real problems at scale.
 
 `Distributed Systems` `Cloud Architecture`
@@ -178,8 +178,8 @@ Building production-grade AI systems and scalable backend platforms that solve r
 <br/>
 
 <p align="center">
-  <a href="https://leetcode.com/tharunvarshan">
-    <img src="https://leetcard.jacoblin.cool/tharunvarshan?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=12" width="480"/>
+  <a href="https://leetcode.com/u/Tharun-Varshan-S/">
+    <img src="https://leetcard.jacoblin.cool/Tharun-Varshan-S?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=12" width="480"/>
   </a>
 </p>
 
@@ -197,15 +197,6 @@ Building production-grade AI systems and scalable backend platforms that solve r
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun-Varshan-S/Tharun-Varshan-S/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="contribution-snake" src="https://raw.githubusercontent.com/Tharun-Varshan-S/Tharun-Varshan-S/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-  </picture>
-</p>
-
-<br/>
-
 ---
 
 ## ◍ &nbsp; CERTIFICATIONS
@@ -215,7 +206,7 @@ Building production-grade AI systems and scalable backend platforms that solve r
   <img src="https://img.shields.io/badge/IIT_Bombay-C_Programming-4c1d95?style=flat-square&labelColor=1e1b4b"/>
   <img src="https://img.shields.io/badge/IIT_Bombay-C%2B%2B_Programming-4c1d95?style=flat-square&labelColor=1e1b4b"/>
   <img src="https://img.shields.io/badge/Udemy-DSA_Masterclass-4c1d95?style=flat-square&labelColor=1e1b4b"/>
-  <img src="https://img.shields.io/badge/Udemy-Python_&_Generative_AI-4c1d95?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Udemy-Python_%26_Generative_AI-4c1d95?style=flat-square&labelColor=1e1b4b"/>
 </p>
 
 <br/>
@@ -224,11 +215,15 @@ Building production-grade AI systems and scalable backend platforms that solve r
 
 <p align="center">
   <a href="mailto:tharunvarshan.s2024aids@sece.ac.in">
-    <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa&label=tharunvarshan.s2024aids%40sece.ac.in"/>
+    <img src="https://img.shields.io/badge/tharunvarshan.s2024aids%40sece.ac.in-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/tharunvarshan">
+  <a href="https://www.linkedin.com/in/tharun-varshan-s-ab1246333">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Tharun-Varshan-S/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=a78bfa"/>
   </a>
 </p>
 
